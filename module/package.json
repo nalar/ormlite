@@ -1,0 +1,10 @@
+{
+  "name": "orm-lite",
+  "version": "0.0.1",
+  "private" : true,
+  "description": "Simple middleware example for NYCDA",
+  "author": "Thijs Tel",
+  "dependencies": {
+    "pg": "^4.4.3"
+  }
+}
